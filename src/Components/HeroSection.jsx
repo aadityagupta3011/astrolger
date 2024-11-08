@@ -1,8 +1,10 @@
 import React from 'react';
+import Navbar from './Navbar';
 
 const HeroSection = () => {
   return (
-    <div className="relative w-full h-screen overflow-hidden">
+    <>
+    <div className="relative w-full h-screen ">
       {/* Background Video */}
       <video
         className="absolute top-0 left-0 w-full h-full object-cover"
@@ -17,7 +19,7 @@ const HeroSection = () => {
       <div className="absolute top-0 left-0 w-full h-full bg-black opacity-30"></div>
 
       {/* Content */}
-      <div className="relative z-10 flex flex-col items-center justify-center h-full text-center text-white px-6">
+      <div className="relative  flex flex-col items-center justify-center h-full text-center text-white px-6">
         <h1 className="text-4xl sm:text-5xl md:text-6xl lg:text-7xl xl:text-8xl font-bold mb-4">
           Astrology Revels The Will Of God
         </h1>
@@ -29,6 +31,7 @@ const HeroSection = () => {
         </button>
       </div>
     </div>
+    </>
   );
 };
 
