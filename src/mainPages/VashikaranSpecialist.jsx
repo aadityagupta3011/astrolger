@@ -31,7 +31,7 @@ const VashikaranSpecialist = () => {
           style={{ backgroundImage: `url(${image1})` }}>
           <div className="absolute inset-0 bg-black opacity-50"></div>
 
-          <div className="relative z-10 max-w-7xl mx-auto text-center lg:text-left">
+          <div className="relative  max-w-7xl mx-auto text-center lg:text-left">
             <h1 className="font-extrabold text-4xl md:text-5xl lg:text-6xl text-white border-b-4 border-indigo-400 pb-3 mb-8 animate-slideInUp">
               Vashikaran Specialist
             </h1>
