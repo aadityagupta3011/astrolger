@@ -9,7 +9,6 @@ const LoveRelationshipAdvice = () => {
       contact: [' +91-95091-68369', '+97 1527912616'],
       footerLinks: [
         'Vashikaran Remedies for Overcoming your Relationship Obstacles',
-        
       ]
     },
     {
@@ -18,7 +17,6 @@ const LoveRelationshipAdvice = () => {
       contact: [' +91-95091-68369', '+97 1527912616'],
       footerLinks: [
         'Astrological Solutions for Overcoming Your Extramarital Affairs',
-        
       ]
     },
     {
@@ -27,23 +25,22 @@ const LoveRelationshipAdvice = () => {
       contact: [' +91-95091-68369', '+97 1527912616'],
       footerLinks: [
         '6 Precious Gemstones for Happy and Promising Love Relationships',
-        
       ]
     }
   ];
 
   return (
-    <div className="bg-gray-100">
+    <div className="bg-gradient-to-br from-pink-100 to-orange-200">
       {/* Top Section: Image and Form */}
       <div className="flex flex-col md:flex-row">
         {/* Left Section with Background Image */}
         <div 
-          className="md:w-2/3 h-96 md:h-auto bg-cover bg-center" 
+          className="md:w-2/3 h-96 md:h-auto bg-cover bg-center rounded-lg" 
           style={{ backgroundImage: `url('https://as1.ftcdn.net/v2/jpg/02/49/68/36/1000_F_249683613_AQM94BDIftkvWH6pKAUGkQ26B06qZH2Z.jpg')` }}
         >
-          <div className="flex items-center justify-center h-full bg-black bg-opacity-40">
+          <div className="flex items-center justify-center h-full bg-black bg-opacity-50 rounded-lg">
             <div className="text-center text-white">
-              <h1 className="text-4xl md:text-5xl font-bold mb-4">Love & Relationship Advice</h1>
+              <h1 className="text-4xl md:text-5xl font-bold mb-4 text-shadow-lg">Love & Relationship Advice</h1>
               <div className="text-lg md:text-xl">
                 <p>Astrologer Nikhil Sharma</p>
                 <p className="text-sm">Best Astrology & Vashikaran Services</p>
@@ -55,8 +52,8 @@ const LoveRelationshipAdvice = () => {
         </div>
 
         {/* Right Section with Query Form */}
-        <div className="w-full md:w-1/3 bg-orange-600 flex items-center justify-center p-6">
-          <form className="w-full max-w-sm bg-white p-6 rounded-lg shadow-lg">
+        <div className="w-full md:w-1/3 bg-gradient-to-r from-orange-500 to-red-500 flex items-center justify-center p-6 rounded-lg shadow-lg">
+          <form className="w-full max-w-sm bg-white p-6 rounded-lg shadow-xl">
             <h2 className="text-2xl font-bold text-orange-600 mb-6 text-center">Query Form</h2>
             
             <div className="mb-4">
@@ -98,7 +95,7 @@ const LoveRelationshipAdvice = () => {
       <div className="container mx-auto px-4 py-8">
         {/* Main Title Section */}
         <div className=" mb-8">
-          <h1 className="text-xl md:text-xl font-bold text-red-600 mb-4">Love and Relationship Advice</h1>
+          <h1 className="text-2xl md:text-3xl font-bold text-red-600 mb-4">Love and Relationship Advice</h1>
           <p className="text-lg text-gray-700">
             Astrology is an ancient science, thanks to which people have received various information since time immemorial. Watching the stars and celestial bodies, they compared events, looking for a connection between them. 
           </p>
@@ -107,7 +104,7 @@ const LoveRelationshipAdvice = () => {
         {/* Cards Section */}
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
           {cardData.map((card, index) => (
-            <div key={index} className="space-y-6">
+            <div key={index} className="space-y-6 transform hover:scale-105 transition-transform duration-300">
               <Card 
                 image={card.image}
                 title={card.title}

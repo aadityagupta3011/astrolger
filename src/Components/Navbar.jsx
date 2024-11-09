@@ -21,7 +21,7 @@ const Navbar = () => {
       <div className="container mx-auto px-4 flex items-center justify-between">
         {/* Logo */}
         <div className="flex items-center space-x-3 m-1">
-          <Link to="/" className="flex items-center">
+          <Link to="https://astrologernikhilsharma.in/" className="flex items-center">
             <img src={logo} alt="Logo" className="w-14 h-14" />
           </Link>
         </div>

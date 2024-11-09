@@ -1,9 +1,11 @@
 import React from 'react';
-import "../App.css"
+import "../App.css";
 
 const AstrologySection = () => {
   return (
     <section className="flex flex-col md:flex-row items-center justify-center py-12 bg-[#fbf7f2]">
+      
+      {/* Text Content Section */}
       <div className="text-center md:text-left md:w-1/2 p-6 m-12">
         <h1 className="text-3xl sm:text-4xl font-serif font-bold text-orange-700 mb-3">Discover Astrology</h1>
         <div className="w-16 sm:w-20 h-1 bg-orange-600 mb-8 mx-auto md:mx-0"></div>
@@ -17,7 +19,10 @@ const AstrologySection = () => {
           DISCOVER MORE
         </button>
       </div>
+      
+      {/* Image and Visual Section */}
       <div className="relative md:w-1/2 flex justify-center p-6">
+        
         {/* Rotating Background Layer */}
         <div 
           className="absolute w-[24rem] sm:w-[28rem] h-[24rem] sm:h-[28rem] rounded-full overflow-hidden bg-cover bg-center animate-spin-slow"
