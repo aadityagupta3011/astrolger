@@ -27,14 +27,14 @@ const navItems = [
         subTitle: "Love Astrologer",
         path: "/Love-Astrologer",
       },
-      // {
-      //   subTitle: "Vashikaran Specialist", // Adding "Vashikaran Specialist" as a subtopic
-      //   path: "/Vashikaran-Specialist",
-      // },
-      // {
-      //   subTitle: "Vashikaran Mantra", // Subtopic for "Vashikaran Specialist"
-      //   path: "/Vashikaran-Mantra",
-      // },
+      {
+        subTitle: "Vashikaran Specialist", // Adding "Vashikaran Specialist" as a subtopic
+        path: "/Vashikaran-Specialist",
+      },
+      {
+        subTitle: "Vashikaran Mantra", // Subtopic for "Vashikaran Specialist"
+        path: "/Vashikaran-Mantra",
+      },
     ],
   },
   // {

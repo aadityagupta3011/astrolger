@@ -3,22 +3,79 @@ const VashikaranMantraContent = [
     Page1heading1: "Marital Problems",
     Page1para1: [
       <p className="mb-4">
-        Vashikaran mantras are among the most influential, effective, and widely recognized methods for resolving issues in various areas of life. While there are other practices such as astrology, psychic reading, numerology, and palmistry that offer solutions, Vashikaran stands out for its direct and impactful approach. In this comprehensive web article, our primary focus is on providing Vashikaran solutions that address nearly all of life's challenges. It is important to highlight that the Vashikaran mantras and solutions discussed here are entirely positive and constructive. They are meticulously performed by our esteemed and highly skilled Vashikaran specialist, Guru Ji, who is celebrated globally for his ethical practices and profound expertise.
+        Vashikaran mantras are among the most influential, effective, and widely
+        recognized methods for resolving issues in various areas of life. While
+        there are other practices such as astrology, psychic reading,
+        numerology, and palmistry that offer solutions, Vashikaran stands out
+        for its direct and impactful approach. In this comprehensive web
+        article, our primary focus is on providing Vashikaran solutions that
+        address nearly all of life's challenges. It is important to highlight
+        that the Vashikaran mantras and solutions discussed here are entirely
+        positive and constructive. They are meticulously performed by our
+        esteemed and highly skilled Vashikaran specialist, Guru Ji, who is
+        celebrated globally for his ethical practices and profound expertise.
       </p>,
       <p className="mb-4">
-        A Vashikaran mantra consists of a specific set of words or phrases that emit vibrational energies designed to achieve particular objectives. For these mantras to be effective, it is crucial that they are chosen carefully, pronounced accurately, and chanted at the appropriate times as prescribed by knowledgeable and refined Vashikaran experts. Additionally, the practitioner providing Vashikaran services should be well-trained, reputable, and of noble character. Our Vashikaran specialist, who is also a globally recognized astrologer, ensures that all Vashikaran therapies are conducted with these essential qualities in mind, maintaining the highest standards of practice.
+        A Vashikaran mantra consists of a specific set of words or phrases that
+        emit vibrational energies designed to achieve particular objectives. For
+        these mantras to be effective, it is crucial that they are chosen
+        carefully, pronounced accurately, and chanted at the appropriate times
+        as prescribed by knowledgeable and refined Vashikaran experts.
+        Additionally, the practitioner providing Vashikaran services should be
+        well-trained, reputable, and of noble character. Our Vashikaran
+        specialist, who is also a globally recognized astrologer, ensures that
+        all Vashikaran therapies are conducted with these essential qualities in
+        mind, maintaining the highest standards of practice.
       </p>,
       <p className="mb-4">
-        Since ancient times, Vashikaran services have enjoyed enduring popularity and widespread preference across the globe, effectively addressing a myriad of life's problems, challenges, and adversities. The unique and often supernatural capabilities of Vashikaran mantras allow them to resolve issues naturally and intrinsically. These cosmic forces are powerful and can influence the intended individual in the desired manner seamlessly. Below, you will find some of the most potent Vashikaran mantras designed for resolving issues related to marriage, family, business, and other personal and professional matters. These mantras are intended to assist those who are troubled or seeking guidance. Through the skillful use of these refined Vashikaran mantras and spells, our esteemed Indian Guru Ji has been successfully alleviating, reconciling, and rejuvenating the lives of distressed, estranged, and frustrated individuals around the world for the past three decades. Specifically, Guru Ji's expertise in addressing relationship and love problems through Vashikaran mantras has harmonized and brought joy to countless lovers globally, establishing him as one of the leading and most respected love Vashikaran spell casters in the world today.
+        Since ancient times, Vashikaran services have enjoyed enduring
+        popularity and widespread preference across the globe, effectively
+        addressing a myriad of life's problems, challenges, and adversities. The
+        unique and often supernatural capabilities of Vashikaran mantras allow
+        them to resolve issues naturally and intrinsically. These cosmic forces
+        are powerful and can influence the intended individual in the desired
+        manner seamlessly. Below, you will find some of the most potent
+        Vashikaran mantras designed for resolving issues related to marriage,
+        family, business, and other personal and professional matters. These
+        mantras are intended to assist those who are troubled or seeking
+        guidance. Through the skillful use of these refined Vashikaran mantras
+        and spells, our esteemed Indian Guru Ji has been successfully
+        alleviating, reconciling, and rejuvenating the lives of distressed,
+        estranged, and frustrated individuals around the world for the past
+        three decades. Specifically, Guru Ji's expertise in addressing
+        relationship and love problems through Vashikaran mantras has harmonized
+        and brought joy to countless lovers globally, establishing him as one of
+        the leading and most respected love Vashikaran spell casters in the
+        world today.
       </p>,
       <p className="mb-4">
-        Serving the entire world with excellence, our Guru Ji possesses the finest, safest, and most effective Vashikaran mantras for solving problems in every sphere of life. Moreover, he has the exceptional ability to create customized Vashikaran mantras tailored to solve any specific life issue promptly and safely. When it comes to positive love Vashikaran mantras, our Chandigarh-based Guru Ji is recognized as one of the most esteemed and respected Vashikaran specialists both in India and internationally. Over the past three decades, his innovative and compassionate approach has healed, rejuvenated, and brought happiness to millions of lovers—both men and women—across the globe through his inherently powerful and impeccably safe love Vashikaran mantras. To date, all various categories of love and relationship problems have been masterfully resolved or eradicated by this leading love Vashikaran specialist astrologer, cementing his position as one of the foremost experts in the field worldwide.
+        Serving the entire world with excellence, our Guru Ji possesses the
+        finest, safest, and most effective Vashikaran mantras for solving
+        problems in every sphere of life. Moreover, he has the exceptional
+        ability to create customized Vashikaran mantras tailored to solve any
+        specific life issue promptly and safely. When it comes to positive love
+        Vashikaran mantras, our Chandigarh-based Guru Ji is recognized as one of
+        the most esteemed and respected Vashikaran specialists both in India and
+        internationally. Over the past three decades, his innovative and
+        compassionate approach has healed, rejuvenated, and brought happiness to
+        millions of lovers—both men and women—across the globe through his
+        inherently powerful and impeccably safe love Vashikaran mantras. To
+        date, all various categories of love and relationship problems have been
+        masterfully resolved or eradicated by this leading love Vashikaran
+        specialist astrologer, cementing his position as one of the foremost
+        experts in the field worldwide.
       </p>,
     ],
-    heading2: "Powerful Vashikaran Mantras and Spells to Resolve Your Life Problems",
+    heading2:
+      "Powerful Vashikaran Mantras and Spells to Resolve Your Life Problems",
     para2: [
       <p className="mb-4">
-        Our renowned astrologer, Nikhil Sharma Ji, has gained widespread acclaim in numerous countries around the world through his powerful Vashikaran mantras and spells, which have effectively resolved various life problems for nearly two decades, regardless of their nature. The following broad categories of life's challenges are expertly addressed by his top-tier, ethical, and cost-effective Vashikaran services:
+        Our renowned astrologer, Nikhil Sharma Ji, has gained widespread acclaim
+        in numerous countries around the world through his powerful Vashikaran
+        mantras and spells, which have effectively resolved various life
+        problems for nearly two decades, regardless of their nature. The
+        following broad categories of life's challenges are expertly addressed
+        by his top-tier, ethical, and cost-effective Vashikaran services:
       </p>,
     ],
     ul2: [
@@ -33,7 +90,14 @@ const VashikaranMantraContent = [
     heading3: "Vashikaran Mantras in Hindi and English",
     para3: [
       <p className="mb-4">
-        To assist the readers of this informative web article, we have provided below a selection of highly effective Vashikaran mantras available in both Hindi and English. These mantras are commonly used to address and solve the specific problems outlined above. However, it is crucial to note that there are several important considerations and precautions associated with the use of these Vashikaran mantras to ensure the best possible and completely safe results. Therefore, we strongly advise readers to carefully review and follow the guidelines provided below.
+        To assist the readers of this informative web article, we have provided
+        below a selection of highly effective Vashikaran mantras available in
+        both Hindi and English. These mantras are commonly used to address and
+        solve the specific problems outlined above. However, it is crucial to
+        note that there are several important considerations and precautions
+        associated with the use of these Vashikaran mantras to ensure the best
+        possible and completely safe results. Therefore, we strongly advise
+        readers to carefully review and follow the guidelines provided below.
       </p>,
     ],
     ul3: [
@@ -54,10 +118,20 @@ const VashikaranMantraContent = [
         ],
         answers: [
           <p>
-            The Vashikaran mantras provided by Astrologer Nikhil Sharma Ji are renowned for their high effectiveness and rapid results in eliminating various life obstacles. Whether you're facing challenges in love, marriage, health, finance, business, or family matters, these mantras are designed to address and resolve issues swiftly and efficiently.
+            The Vashikaran mantras provided by Astrologer Nikhil Sharma Ji are
+            renowned for their high effectiveness and rapid results in
+            eliminating various life obstacles. Whether you're facing challenges
+            in love, marriage, health, finance, business, or family matters,
+            these mantras are designed to address and resolve issues swiftly and
+            efficiently.
           </p>,
           <p>
-            Astrologer Nikhil Sharma Ji has been a highly respected and sought-after astrologer specializing in Vashikaran services for over two decades. His unparalleled expertise and compassionate approach have made him a favorite among clients across numerous countries worldwide. His Vashikaran services encompass a wide range of life areas, including:
+            Astrologer Nikhil Sharma Ji has been a highly respected and
+            sought-after astrologer specializing in Vashikaran services for over
+            two decades. His unparalleled expertise and compassionate approach
+            have made him a favorite among clients across numerous countries
+            worldwide. His Vashikaran services encompass a wide range of life
+            areas, including:
             <ul className="list-disc pl-5 mt-2 space-y-2">
               <li>Love and Romantic Relationships</li>
               <li>Marriage and Marital Harmony</li>
@@ -68,14 +142,27 @@ const VashikaranMantraContent = [
             </ul>
           </p>,
           <p>
-            To reach out to Vashikaran Specialist Astrologer Nikhil Sharma Ji, you can use the following contact methods:
+            To reach out to Vashikaran Specialist Astrologer Nikhil Sharma Ji,
+            you can use the following contact methods:
             <br />
             <strong>Call/WhatsApp:</strong> +91-95091-68369 <br />
-            <strong>Email:</strong> <a href="mailto:info@AstrologerNikhilSharma.com" className="text-blue-500 hover:underline">info@AstrologerNikhilSharma.com</a> <br />
+            <strong>Email:</strong>{" "}
+            <a
+              href="mailto:info@AstrologerNikhilSharma.com"
+              className="text-blue-500 hover:underline">
+              info@AstrologerNikhilSharma.com
+            </a>{" "}
+            <br />
             <strong>Skype:</strong> Nikhil.sharma3291
           </p>,
           <p>
-            When you choose to engage with Astrologer Nikhil Sharma Ji, you can expect the finest and safest Vashikaran solutions tailored to your specific needs. His services are offered at reasonable and affordable costs, ensuring broad coverage of various issues. Additionally, he maintains the highest level of confidentiality, safeguarding your personal information with utmost responsibility and integrity.
+            When you choose to engage with Astrologer Nikhil Sharma Ji, you can
+            expect the finest and safest Vashikaran solutions tailored to your
+            specific needs. His services are offered at reasonable and
+            affordable costs, ensuring broad coverage of various issues.
+            Additionally, he maintains the highest level of confidentiality,
+            safeguarding your personal information with utmost responsibility
+            and integrity.
           </p>,
         ],
       },
@@ -177,10 +264,10 @@ const VashikaranMantraContent = [
       { placeTitle: "How to Reconcile with Ex-wife after Divorce?" },
       { placeTitle: "How to Reconcile with Ex-husband after Divorce?" },
       { placeTitle: "Extramarital Affairs Problem Solution" },
-      { placeTitle: "Best Extramarital Affairs Problem Solution Astrologer" }
-    ].map(item => ({
+      { placeTitle: "Best Extramarital Affairs Problem Solution Astrologer" },
+    ].map((item) => ({
       ...item,
-      pathName: item.placeTitle.toLowerCase().replace(/\s+/g, '-')
+      pathName: item.placeTitle.toLowerCase().replace(/\s+/g, "-"),
     })),
   },
 ];
