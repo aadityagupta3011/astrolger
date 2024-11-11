@@ -15,6 +15,19 @@ const testimonials = [
   { id: 11, videoUrl: "/videos/Testimonial11.mp4" },
   { id: 12, videoUrl: "/videos/Testimonial12.mp4", from: "right" },
   { id: 13, videoUrl: "/videos/Testimonial13.mp4", from: "left" },
+  { id: 14, videoUrl: "/videos/Testimonial14.mp4", from: "left" },
+  { id: 15, videoUrl: "/videos/Testimonial15.mp4", from: "left" },
+  { id: 16, videoUrl: "/videos/Testimonial16.mp4", from: "left" },
+  { id: 17, videoUrl: "/videos/Testimonial17.mp4", from: "left" },
+  { id: 18, videoUrl: "/videos/Testimonial18.mp4", from: "left" },
+  { id: 19, videoUrl: "/videos/Testimonial19.mp4", from: "left" },
+  { id: 20, videoUrl: "/videos/Testimonial20.mp4", from: "left" },
+  { id: 21, videoUrl: "/videos/Testimonial21.mp4", from: "left" },
+  { id: 22, videoUrl: "/videos/Testimonial22.mp4", from: "left" },
+  { id: 23, videoUrl: "/videos/Testimonial23.mp4", from: "left" },
+  { id: 24, videoUrl: "/videos/Testimonial24.mp4", from: "left" },
+  { id: 13, videoUrl: "/videos/Testimonial25.mp4", from: "left" },
+  { id: 13, videoUrl: "/videos/Testimonial26.mp4", from: "left" },
 ];
 
 const Testimonials = () => {
@@ -27,7 +40,9 @@ const Testimonials = () => {
           if (entry.isIntersecting) {
             // Get the direction to apply the correct animation
             const direction = entry.target.getAttribute("data-from");
-            entry.target.classList.add(direction === "left" ? "animate-slideIn" : "animate-slideInRight");
+            entry.target.classList.add(
+              direction === "left" ? "animate-slideIn" : "animate-slideInRight"
+            );
             entry.target.classList.remove("opacity-0"); // Remove hidden class
             observer.unobserve(entry.target); // Stop observing after animation is applied
           }
@@ -51,15 +66,16 @@ const Testimonials = () => {
           <h2 className="text-2xl font-bold text-center mb-6">Testimonials</h2>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4">
             {testimonials.map((testimonial, index) => (
-              <div key={testimonial.id} className="bg-white rounded-lg shadow-md overflow-hidden">
+              <div
+                key={testimonial.id}
+                className="bg-white rounded-lg shadow-md overflow-hidden">
                 <video
                   ref={(el) => (videoRefs.current[index] = el)}
                   className="w-full h-48 opacity-0 transition-opacity duration-300" // Start hidden until animated
                   data-from={testimonial.from} // Set direction for each video
                   controls
                   src={testimonial.videoUrl}
-                  title={`Testimonial ${testimonial.id}`}
-                >
+                  title={`Testimonial ${testimonial.id}`}>
                   Your browser does not support the video tag.
                 </video>
               </div>
