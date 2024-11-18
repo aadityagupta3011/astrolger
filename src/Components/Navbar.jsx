@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { Link } from "react-router-dom";
 import navItems from "../data/navItems";
-import logo from "../images/logo.png";
+import logo from "../images/logo.jpg";
 import HeaderContactBar from "./HeaderContactBar";
 import { IoReorderThreeOutline } from "react-icons/io5";
 import { MdOutlineCancel } from "react-icons/md";
